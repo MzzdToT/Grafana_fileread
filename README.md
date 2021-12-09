@@ -10,7 +10,7 @@ python3 Grafana_fileread.py -f url.txt 批量检测
 ![exp](./poc.png)
 
 附一张大众读取文件的占比
-![use](./use.jpg)
+![use](./1.jpg)
 
 
 感谢赛博各位师傅的指点
