@@ -83,7 +83,7 @@ if __name__ == '__main__':
 						help="Target URL; Example:http://ip:port")
 	arg.add_argument("-f",
 						"--file",
-						help="Target URL; Example:url.txt")
+						help="url_lsit; Example:url.txt")
 	args=arg.parse_args()
 	url=args.url
 	filename=args.file
